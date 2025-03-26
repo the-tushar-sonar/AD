@@ -1,13 +1,12 @@
 # Android Practicle
 
-## *Project1*
-## *Project2*
-## *Project3*
-## *Project4*
-## *Project5*
-## *Project6*
-## *Project7*
-## *Project8*
-## *Project9*
-## *Project10*
-
+## *Project1* - Hello World
+## *Project2* - Resgistration Page
+## *Project3* - Appliction with Login Module
+## *Project4* - Scroll view in android
+## *Project5* - Appliction with Login Module (disabled botton)
+## *Project6* - Calculator
+## *Project7* - Use of scroll view
+## *Project8* - Intent
+## *Project9* - Menu option
+## *Project10* - Progress bar
